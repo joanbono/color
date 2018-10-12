@@ -1,8 +1,9 @@
-# Archived project. No maintenance. 
+# `color` package fork
 
-This project is not maintained anymore and is archived. Feel free to fork and
-make your own changes if needed. For more detail read my blog post: [Taking an indefinite sabbatical from my projects](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/)
+Since `fatih` announced that he won't mantain this project anymore, I decided to fork it to work on this if required.
 
+> This project is not maintained anymore and is archived. Feel free to fork and
+make your own changes if needed. For more detail read my blog post: [Taking an indefinite sabbatical from my projects](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/)  
 Thanks to everyone for their valuable feedback and contributions.
 
 
